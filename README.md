@@ -17,7 +17,7 @@ up (instead of just running Nmap) was the goal here.
 Only scan hosts you own or have explicit written permission to scan.
 Scanning systems you don't control without permission is illegal in most
 places (in the US, this can fall under the Computer Fraud and Abuse Act).
-This script defaults to safe local testing against `127.0.0.1` (your own
+This script defaults to safe local testing against `127.0.0.1` (my
 machine).
 
 ## What it does
